@@ -1,6 +1,7 @@
 # Первый проект будущего... программиста
 
-![фоточка] (https://drive.google.com/open?id=1--MLUeH9Fw7icFR23iiRgz5SICoAftYP&usp=drive_fs)
+![] (https://drive.google.com/uc?export=view&id=1--MLUeH9Fw7icFR23iiRgz5SICoAftYP)
+
 
 ## БИЛЛИ БОНС
 
